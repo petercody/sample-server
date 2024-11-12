@@ -1,0 +1,24 @@
+{
+  "sales_order": [
+    {
+      "so_no": "SO-00013",
+      "purchase_order": "P0-00013",
+      "order_type": "Order",
+      "order_date": "11/03/2024",
+      "ship_date": "11/06/2024",
+      "customer_name": "EO Optical",
+      "country_id": "FRA-250",
+      "so_items": [
+        {
+          "item_no": "004",
+          "product_code": "PRO0004",
+          "product_name": "A305000004",
+          "description": "Lorem ipsum voluptatum ea corporis asperiores.",
+          "order_qty": "500",
+          "delivered_qty": "0",
+          "balance": "500"
+        }
+      ]
+    }
+  ]
+}
